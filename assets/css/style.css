@@ -7,8 +7,7 @@
   font-family: Montserrat, serif;
   font-size: 18px;
 }
-html,
-body {
+html, body {
   display: flex;
   flex-direction: column;
   height: 100%;

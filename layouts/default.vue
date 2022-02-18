@@ -1,8 +1,11 @@
 <template>
-  <div>
+  <div class="body">
+    <Preloader/>
     <Header />
-    <main class="main__container container">
-      <Nuxt />
+    <main>
+      <div class="main__container container">
+        <Nuxt />
+      </div>
     </main>
     <Footer />
   </div>
