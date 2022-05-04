@@ -33,7 +33,7 @@
         margin: 0 auto;
     }
     .header__logo {
-        font-family: "SeoulHangang CBL",  serif;
+        font-family: "SeoulHangang CBL";
         text-decoration: none;
         font-size: 36px;
         text-shadow: 0px 7px 20px rgba(0, 0, 0, 0.45);

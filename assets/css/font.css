@@ -1,11 +1,11 @@
-/* @font-face {
+@font-face {
     font-family: 'Montserrat';
-    src: url('@/assets/fonts/Montserrat-SemiBold.eot');
-    src: url('@/assets/Montserrat-SemiBold.eot?#iefix') format('embedded-opentype'),
-        url('@/assets/fonts/Montserrat-SemiBold.woff2') format('woff2'),
-        url('@/assets/fonts/Montserrat-SemiBold.woff') format('woff'),
-        url('@/assets/fonts/Montserrat-SemiBold.ttf') format('truetype'),
-        url('@/assets/fonts/Montserrat-SemiBold.svg#Montserrat-SemiBold') format('svg');
+    src: url('~assets/fonts/Montserrat-SemiBold.eot');
+    src: url('~assets/fonts/Montserrat-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('~assets/fonts/Montserrat-SemiBold.woff2') format('woff2'),
+        url('~assets/fonts/Montserrat-SemiBold.woff') format('woff'),
+        url('~assets/fonts/Montserrat-SemiBold.ttf') format('truetype'),
+        url('~assets/fonts/Montserrat-SemiBold.svg#Montserrat-SemiBold') format('svg');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
@@ -13,12 +13,12 @@
 
 @font-face {
     font-family: 'Montserrat';
-    src: url('@/assets/fonts/Montserrat-Regular.eot');
-    src: url('@/assets/fonts/Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
-        url('@/assets/fonts/Montserrat-Regular.woff2') format('woff2'),
-        url('@/assets/fonts/Montserrat-Regular.woff') format('woff'),
-        url('@/assets/fonts/Montserrat-Regular.ttf') format('truetype'),
-        url('@/assets/fonts/Montserrat-Regular.svg#Montserrat-Regular') format('svg');
+    src: url('~assets/fonts/Montserrat-Regular.eot');
+    src: url('~assets/fonts/Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
+        url('~assets/fonts/Montserrat-Regular.woff2') format('woff2'),
+        url('~assets/fonts/Montserrat-Regular.woff') format('woff'),
+        url('~assets/fonts/Montserrat-Regular.ttf') format('truetype'),
+        url('~assets/fonts/Montserrat-Regular.svg#Montserrat-Regular') format('svg');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -26,14 +26,14 @@
 
 @font-face {
     font-family: 'SeoulHangang CBL';
-    src: url('@/assets/fonts/SeH-CBL.eot');
-    src: url('@/assets/fonts/SeH-CBL.eot?#iefix') format('embedded-opentype'),
-        url('@/assets/fonts/SeH-CBL.woff2') format('woff2'),
-        url('@/assets/fonts/SeH-CBL.woff') format('woff'),
-        url('@/assets/fonts/SeH-CBL.ttf') format('truetype'),
-        url('@/assets/fonts/SeH-CBL.svg#SeH-CBL') format('svg');
+    src: url('~assets/fonts/SeH-CBL.eot');
+    src: url('~assets/fonts/SeH-CBL.eot?#iefix') format('embedded-opentype'),
+        url('~assets/fonts/SeH-CBL.woff2') format('woff2'),
+        url('~assets/fonts/SeH-CBL.woff') format('woff'),
+        url('~assets/fonts/SeH-CBL.ttf') format('truetype'),
+        url('~assets/fonts/SeH-CBL.svg#SeH-CBL') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
- */
+
