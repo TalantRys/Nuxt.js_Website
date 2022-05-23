@@ -3,7 +3,7 @@ export default {
   head: {
     title: 'nuxt.js_website',
     htmlAttrs: {
-      lang: 'en'
+      lang: 'ru'
     },
     meta: [
       { charset: 'utf-8' },
