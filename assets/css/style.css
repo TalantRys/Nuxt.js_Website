@@ -7,10 +7,13 @@
   font-family: Montserrat, serif;
   font-size: 18px;
 }
-html, body {
+html, body{
+  height: 100%;
+}
+.wrapper {
+  min-height: 100%;
   display: flex;
   flex-direction: column;
-  height: 100%;
 }
 .container {
   max-width: 1240px;

@@ -25,7 +25,7 @@
           <li>
             <a href="tel:+73812999999" class="footer__link">+7-3812-99-99-99</a>
           </li>
-          <li><a href="#" class="footer__link">scake@mail.ru</a></li>
+          <li><a href="mailto:scake@mail.ru" class="footer__link">scake@mail.ru</a></li>
         </ul>
       </div>
       <div class="footer__right">
@@ -65,8 +65,8 @@
         </p>
       </div>
     </div>
-    <div class="footer__down">
-      <div class="footer__down_container container">
+    <div class="footer__bottom">
+      <div class="footer__bottom_container container">
         <hr />
         <p class="footer__copyright">@2022 ИСП306 Рыскулов Талант</p>
       </div>
@@ -102,10 +102,10 @@ footer a {
   justify-content: space-between;
 }
 
-.footer__down {
+.footer__bottom {
   text-align: center;
 }
-.footer__down_container {
+.footer__bottom_container {
   box-sizing: border-box;
   padding: 0 20px;
 }
